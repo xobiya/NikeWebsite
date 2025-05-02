@@ -33,9 +33,15 @@ npm run dev
 
 # Project Structure
 src/
+
 ├── assets/         # Images and icons
+
 ├── components/     # Reusable React components
+
 ├── Sections/       # Page sections (e.g., Hero, Services)
+
 ├── Constants/      # Static data and constants
+
 ├── App.jsx         # Main application file
+
 └── index.jsx       # Entry point
