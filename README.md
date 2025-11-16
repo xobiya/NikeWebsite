@@ -1,3 +1,10 @@
+
+<p align="center">
+    <img src="src/assets/Nike.png" alt="Nike screenshot" style="max-width:48%; margin-right:1%;" />
+    <img src="src/assets/NikeTwo.png" alt="Nike screenshot 2" style="max-width:48%;" />
+</p>
+
+
 # 🏀 Nike Website
 
 This is a modern and responsive **Nike-themed** website built using **React** and **Vite**. The project showcases various sections, including a hero banner, services, and popular products, with a clean and interactive UI.
